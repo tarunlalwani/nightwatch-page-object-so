@@ -1,0 +1,12 @@
+{
+  "name": "nightwatchpage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nightwatch": "^0.9.20"
+  },
+  "scripts": {
+    "test": "nightwatch"
+  }
+}
